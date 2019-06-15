@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void ratebar(View view){
         Intent intent=new Intent();
-        intent.setClass(this,ratebar.class);
+        intent.setClass(this,list.class);
     startActivity(intent);
     }
 }

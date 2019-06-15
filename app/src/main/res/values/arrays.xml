@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_arr">
+        <item>icecream</item>
+        <item>popcorn</item>
+        <item>chocolate</item>
+    </string-array>
+    <string-array name="listarray" >
+        <item>Scrollview</item>
+        <item>Webview</item>
+        <item>Ratingbar</item>
+        <item>Seekbar</item>
+        <item>Compounbuttom</item>
+        <item>Menus</item>
+        <item>Spinner</item>
+    </string-array>
+</resources>
